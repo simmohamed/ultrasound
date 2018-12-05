@@ -1,0 +1,9 @@
+Partlist exported from //fs1/homeFolders$/mohamed.rabbal/Documents/EAGLE/projects/ultra sonic/ultra sonic/untitled.sch at 12/4/2018 10:03 AM
+
+Part Value                           Device                          Package                  Description                                                                                                                 PROD_ID     SF_ID     SF_SKU   
+LCD1 LCD-16X2NOHOLES                 LCD-16X2NOHOLES                 LCD-16X2_NOHOLESNOSILK   Standard text-only 16x2 parallel input LCD                                                                                              LCD-00255          
+S1   MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST                                                                                         SWCH-08441           COM-00097
+S2   MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST                                                                                         SWCH-08441           COM-00097
+S3   MOMENTARY-SWITCH-SPST-PTH-6.0MM MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST                                                                                         SWCH-08441           COM-00097
+U$1  ULTRASONIC-HC-SR04              ULTRASONIC-HC-SR04              ULTRASONIC-HC-SR04       Ultrasonic Ranging Module HC-SR04                                                                                                                          
+U1   ARDUINOR3-BPLACE                ARDUINOR3-BPLACE                ARDUINOR3-BPLACE         This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5                                
